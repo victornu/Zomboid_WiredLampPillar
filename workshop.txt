@@ -1,0 +1,14 @@
+version=1
+id=3539046733
+title=Wired lamp pillar
+description=Project Zomboid's Mod that able players to connect wood pillar light to generator!
+description=
+description=If you are level 3 electrician, you have a screwdriver and you have wire cable, you can connect a wood pillar light to a generator. Once the pillar is connected you cannot unconnect it.
+description=
+description=<BE CAREFUL!> Once you have connected the pillar, you can't rotate it, so rotate it before connecting.
+description=
+description=Probably really buggy still, its a WIP mod
+description=Install Starlit lib to use this mod.
+description=Starlit: https://steamcommunity.com/sharedfiles/filedetails/?id=3378285185
+tags=Build 42;Building;Realistic
+visibility=public

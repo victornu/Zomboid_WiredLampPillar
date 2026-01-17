@@ -1,4 +1,7 @@
 name=Wired lamp pillar
 poster=poster.png
+require=\StarlitLibrary
 id=WiredLampPillar
+pack=test
+tiledef=test 200
 description=Project Zomboid's Mod that able players to connect wood pillar light to generator

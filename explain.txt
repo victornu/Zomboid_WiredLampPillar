@@ -1,0 +1,12 @@
+ROADMAP WIRED LAMP PILLAR - 8 JOURS
+
+q
+
+RISQUES CRITIQUES:
+🔴 API électricité instable → Polling fallback
+🔴 Sync multiplayer complexe → Prévoir débordement J4
+🟡 Rotation impossible → Documenter limite
+
+COMPLEXITÉ:
+J1-2: Facile (13h) | J3: Moyen (10h) | J4: ÉLEVÉ (12h+) ⚠️⚠️
+J5-8: Facile-Moyen (31h) | Total: ~66h
